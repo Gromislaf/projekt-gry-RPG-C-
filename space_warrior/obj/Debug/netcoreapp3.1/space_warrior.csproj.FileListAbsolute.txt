@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\space_warrior\space_warrior\bin\Debug\netcoreapp3.1\space_warrior.exe
+C:\Users\PC\source\repos\space_warrior\space_warrior\bin\Debug\netcoreapp3.1\space_warrior.deps.json
+C:\Users\PC\source\repos\space_warrior\space_warrior\bin\Debug\netcoreapp3.1\space_warrior.runtimeconfig.json
+C:\Users\PC\source\repos\space_warrior\space_warrior\bin\Debug\netcoreapp3.1\space_warrior.runtimeconfig.dev.json
+C:\Users\PC\source\repos\space_warrior\space_warrior\bin\Debug\netcoreapp3.1\space_warrior.dll
+C:\Users\PC\source\repos\space_warrior\space_warrior\bin\Debug\netcoreapp3.1\space_warrior.pdb
+C:\Users\PC\source\repos\space_warrior\space_warrior\obj\Debug\netcoreapp3.1\space_warrior.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\space_warrior\space_warrior\obj\Debug\netcoreapp3.1\space_warrior.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\space_warrior\space_warrior\obj\Debug\netcoreapp3.1\space_warrior.AssemblyInfo.cs
+C:\Users\PC\source\repos\space_warrior\space_warrior\obj\Debug\netcoreapp3.1\space_warrior.dll
+C:\Users\PC\source\repos\space_warrior\space_warrior\obj\Debug\netcoreapp3.1\space_warrior.pdb
+C:\Users\PC\source\repos\space_warrior\space_warrior\obj\Debug\netcoreapp3.1\space_warrior.genruntimeconfig.cache
+C:\Users\PC\source\repos\space_warrior\space_warrior\obj\Debug\netcoreapp3.1\space_warrior.csprojAssemblyReference.cache
