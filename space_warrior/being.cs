@@ -4,12 +4,12 @@ using System.Text;
 
 namespace space_warrior
 {
-    public class being
+    public class Being
     {
         public int CurrentHP { get; set; }
         public int MaxHP { get; set; }
 
-        public being(int currentHP, int maxHP)
+        public Being(int currentHP, int maxHP)
         {
             CurrentHP = currentHP;
             MaxHP = maxHP;

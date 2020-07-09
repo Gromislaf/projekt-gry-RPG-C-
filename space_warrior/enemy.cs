@@ -4,19 +4,23 @@ using System.Text;
 
 namespace space_warrior
 {
-   public class enemy : being
+   public class Enemy : Being
     {
         public int ID { get; set; }
         public string Name { get; set; }
         public int Attack { get; set; }
         public int RewardEXP { get; set; }
+      
+        public List<Weaponloot> LootTable { get; set; }
 
-        public enemy(int iD, string name, int attack, int rewardEXP, int currentHP, int maxHP) : base(currentHP, maxHP)
+        public Enemy(int iD, string name, int attack, int rewardEXP, int currentHP, int maxHP) : base(currentHP, maxHP)
         {
             ID = iD;
             Name = name;
             Attack = attack;
             RewardEXP = rewardEXP;
+           
+            LootTable = new List<Weaponloot>();
         }
     }
 }
