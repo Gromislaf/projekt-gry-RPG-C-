@@ -18,5 +18,10 @@ namespace space_warrior
             MinimumDamage = minimumDamage;
             MaximumDamage = maximumDamage;
         }
+
+        public override string ToString()
+        {
+            return "Używasz: " + Name + " zadający: od " + MinimumDamage + " do " + MaximumDamage + " pkt. obrażeń";
+        }
     }
 }

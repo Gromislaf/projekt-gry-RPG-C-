@@ -22,5 +22,10 @@ namespace space_warrior
            
             LootTable = new List<Weaponloot>();
         }
+
+        public override string ToString()
+        {
+            return "Walczysz z: " + Name + " pozostało mu: " + CurrentHP + " punktów życia";
+        }
     }
 }

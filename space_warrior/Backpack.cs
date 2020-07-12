@@ -14,5 +14,6 @@ namespace space_warrior
             Details = details;
            
         }
+        
     }
 }

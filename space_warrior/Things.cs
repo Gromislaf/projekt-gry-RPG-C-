@@ -28,7 +28,9 @@ namespace space_warrior
 
         }
 
-        private static void PopulateWeapons()
+
+
+        public static void PopulateWeapons()
         {
             Weapons.Add(new Weapon(WEAPON_ID_BOLTER, "Bolter", 3, 5));
             Weapons.Add(new Weapon(WEAPON_ID_CHAINSWORD, "Chainsword", 4, 4));
@@ -36,7 +38,10 @@ namespace space_warrior
 
         }
 
-        private static void PopulateEnemies()
+
+
+
+        public static void PopulateEnemies()
         {
             Enemy orc = new Enemy(ENEMY_ID_ORC, "Orc", 3, 4, 8, 8);
             orc.LootTable.Add(new Weaponloot(WeaponByID(WEAPON_ID_BOLTER), 75));
